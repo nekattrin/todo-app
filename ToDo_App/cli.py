@@ -1,4 +1,4 @@
-import functionsForMain
+import functions
 import time
 
 now = time.strftime("%H:%M:%S     %B %d, %Y")
